@@ -1,0 +1,43 @@
+String user_id = "";
+String memberID = "";
+String memberName = "Richard Ha Seong Ling";
+String memberEmail = "";
+String cardType = "Default";
+String cardExpiryDate = "31/01/2021";
+String accessToken = "";
+String total_point = "";
+String card_type = "";
+String member_card_month = "";
+String member_card_year = "";
+String voucher_count = "";
+String image = "";
+String balance = "";
+String term_cond = "";
+String terms_condtion = "";
+String term_value = "APP: EZYKAKI";
+String FromDate = "";
+String ToDate = "";
+String ItemCode = "";
+String OTP = "";
+String loginInformation = "";
+String Password = "";
+String Pin = "";
+String webView = "";
+String ScanData = "";
+String voucher_code = "";
+String bearerToken = "";
+String hostServer = "laozihao";
+String company_id = 'laozihao123';
+var imageShow;
+String version = '1.0.0';
+String logoName = 'laozihao-new.png';
+String smallIcon = 'laozihao-small-logo.jpg';
+double logoSize = 50;
+
+bool showQr = false;
+bool showPin = false;
+bool showEncrypted = false;
+bool showTransfer = false;
+bool isShowImage = false;
+
+

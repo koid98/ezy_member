@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml:1:11-54
+		INJECTED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml:2:5-51
+uses-sdk
+ADDED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml:3:3-71
+INJECTED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml:3:3-71
+INJECTED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml:3:3-71
+	tools:overrideLibrary
+		ADDED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml:3:13-68
+	android:targetSdkVersion
+		INJECTED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/richardhaseongling/.pub-cache/hosted/pub.dev/qr_code_scanner_plus-2.0.10+1/android/src/main/AndroidManifest.xml
